@@ -1,0 +1,1 @@
+Repositório de imagens vetoriais e PNG das bandeiras oficiais das Unidades da Federação do Brasil, em formato circular, destinado ao uso em painéis analíticos, sistemas de informação, relatórios institucionais e visualizações de dados (BI).
